@@ -5,6 +5,7 @@ public class Practica{
 
         Scanner entrada = new Scanner(System.in);
 
-        System.out.println("Hola Mundooooo");
+        System.out.println("Ingrese un numero: ");
+        int numero = entrada.nextInt();
     }
 }
